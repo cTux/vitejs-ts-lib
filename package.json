@@ -1,6 +1,7 @@
 {
   "name": "@ctux/lib",
   "version": "1.0.0",
+  "private": false,
   "type": "module",
   "files": ["dist"],
   "main": "./dist/lib.umd.cjs",
